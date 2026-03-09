@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: EEGLoc
+message: >-
+  If you use this software, please cite the associated
+  master's thesis.
+type: software
+authors:
+  - family-names: Gallant
+    given-names: Melissa Marie
+    affiliation: Maastricht University
+repository-code: 'https://github.com/MelissaGallant/eegloc-thesis'
+license: MIT
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Gallant
+      given-names: Melissa Marie
+  title: >-
+    EEG Electrode Coregistration from 3D Head Scans: A Pilot and Main Study
+    Exploration in Persons with Parkinson's Disease
+  institution:
+    name: Maastricht University
+  year: 2025
