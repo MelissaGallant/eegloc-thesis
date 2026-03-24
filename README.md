@@ -132,7 +132,11 @@ The author would like to thank the supervisors and staff involved in the thesis 
 
 ## Citation
 
-If you use this software in academic work, please cite the associated thesis:
+If you use this software in academic work, please cite it as:
+
+> Gallant, M. M. (2026). *EEGLoc* (v1.0.0). https://doi.org/10.5281/zenodo.19209836
+
+This software supplements the master's thesis:
 
 > Gallant, M. M. (2025). *EEG Electrode coregistration from 3D head scans: A pilot and main study exploration in persons with Parkinson's disease* [Master's thesis, Maastricht University].
 
