@@ -1,4 +1,6 @@
-# EEGLoc — Thesis Implementation
+# EEGLoc — Thesis Implementation 
+
+[![DOI](https://zenodo.org/badge/1176368408.svg)](https://doi.org/10.5281/zenodo.19209835)
 
 This repository contains the **reference implementation of EEGLoc**, an EEG electrode localization pipeline developed as part of the master's thesis: "*EEG Electrode Coregistration from 3D Head Scans: A Pilot and Main Study Exploration in Persons with Parkinson's Disease*"  
 
